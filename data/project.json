@@ -15,7 +15,13 @@
     "authors": "",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "lwjameson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/17829439?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -143,6 +149,6 @@
       ]
     },
     "created_at": "2024-09-17T18:40:00.761Z",
-    "updated_at": "2024-09-17T18:40:00.761Z"
+    "updated_at": "2024-09-18T17:35:50.809Z"
   }
 }
