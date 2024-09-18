@@ -1,0 +1,2375 @@
+{
+  "event_id": "4e6d9205-d968-4abb-9066-3a4a0975b671",
+  "source_id": "5eb670f4-0ff2-48e1-9e28-2133255693d4",
+  "set": "Annotations",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 40,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Beatrice Lange"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Evelyn Werner"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Carita Doggett Corse"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Rolla Southworth"
+        }
+      ],
+      "uuid": "dbca8932-3b2a-4ba4-a73a-c238cdc48451"
+    },
+    {
+      "start_time": 48,
+      "end_time": 52,
+      "annotation": [
+        {
+          "text": "2714 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "796a9dff-d0ca-47fe-915b-b7a0cde56ad7"
+    },
+    {
+      "start_time": 53,
+      "end_time": 61,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Inaudible"
+        }
+      ],
+      "uuid": "d8cc4b85-31fd-4ead-9315-66cf619596aa"
+    },
+    {
+      "start_time": 62,
+      "end_time": 180,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "800b6e0b-c1c1-4f5d-9424-c13a16bd6d41"
+    },
+    {
+      "start_time": 184,
+      "end_time": 340,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "d3baba86-54bb-4f37-a09f-94f8d0337a96"
+    },
+    {
+      "start_time": 341,
+      "end_time": 344,
+      "annotation": [
+        {
+          "text": "2715 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "2613070f-2bc2-4e5e-b01a-81b8db6df51b"
+    },
+    {
+      "start_time": 347,
+      "end_time": 360,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Inaudible"
+        }
+      ],
+      "uuid": "13dbba10-7e08-490b-a7ac-909faadcf055"
+    },
+    {
+      "start_time": 359,
+      "end_time": 518,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "76abbb8a-b4c0-47f3-aa71-b827332b0313"
+    },
+    {
+      "start_time": 524,
+      "end_time": 626,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "f4f9ce20-f583-4d6c-b649-943740e075c7"
+    },
+    {
+      "start_time": 638,
+      "end_time": 641,
+      "annotation": [
+        {
+          "text": "2715 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "68fba316-e446-4060-953b-e08ae3f66df7"
+    },
+    {
+      "start_time": 646,
+      "end_time": 686,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "8d9736a9-80a5-44c4-acd4-68c06fc395a1"
+    },
+    {
+      "start_time": 686,
+      "end_time": 697,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "9b75824b-ad44-43d7-9234-83183b180a58"
+    },
+    {
+      "start_time": 697,
+      "end_time": 771,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "f97ad90e-330f-43af-bf18-fb78595aadab"
+    },
+    {
+      "start_time": 771,
+      "end_time": 782,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "4afa2f61-a60f-4da5-a4ea-5034b973ed3a"
+    },
+    {
+      "start_time": 782,
+      "end_time": 790,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "a0cd231d-7365-47ba-be4b-6a575f867e86"
+    },
+    {
+      "start_time": 802,
+      "end_time": 825,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "b48f2b28-e0d0-4172-b805-2a01a1d41d42"
+    },
+    {
+      "start_time": 825,
+      "end_time": 837,
+      "annotation": [
+        {
+          "text": "Man and woman singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "e1703a37-57d6-4538-a6de-de4878556a96"
+    },
+    {
+      "start_time": 837,
+      "end_time": 872,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "e81718e8-91f0-40de-a9b0-2dd2b5ed7322"
+    },
+    {
+      "start_time": 872,
+      "end_time": 885,
+      "annotation": [
+        {
+          "text": "Man and woman singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "0006f3ec-64f1-4587-9e39-40a12ce3f8de"
+    },
+    {
+      "start_time": 885,
+      "end_time": 930,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "cba71963-969c-4958-981a-74861d04a86f"
+    },
+    {
+      "start_time": 936,
+      "end_time": 939,
+      "annotation": [
+        {
+          "text": "2716 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "398976c8-c475-49ae-a38b-375d72d9c923"
+    },
+    {
+      "start_time": 944,
+      "end_time": 950,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Inaudible"
+        }
+      ],
+      "uuid": "40eb9234-7030-47b0-bd40-3bfc59b92a83"
+    },
+    {
+      "start_time": 950,
+      "end_time": 1079,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "d8726538-00fe-4080-a16b-bef96f74b1ce"
+    },
+    {
+      "start_time": 1086,
+      "end_time": 1086,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "03f439a1-eae7-45e0-8b13-44db4d22f529"
+    },
+    {
+      "start_time": 1087,
+      "end_time": 1225,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "d9db98ca-342d-46fb-af29-e6aeaded4916"
+    },
+    {
+      "start_time": 1226,
+      "end_time": 1229,
+      "annotation": [
+        {
+          "text": "2716 B1"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "c7b19fdf-1bec-4a76-803b-db8791d1b26a"
+    },
+    {
+      "start_time": 1232,
+      "end_time": 1233,
+      "annotation": [
+        {
+          "text": "Alright. Let's play."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "9dcaa51b-9fe3-4e93-9a63-15ed76090ea8"
+    },
+    {
+      "start_time": 1233,
+      "end_time": 1405,
+      "annotation": [
+        {
+          "text": "Women singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "aa3b4f30-bbe8-4c7e-b2b0-da38705d32e5"
+    },
+    {
+      "start_time": 1408,
+      "end_time": 1412,
+      "annotation": [
+        {
+          "text": "2717 A1, 2, and3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "8c342d5d-b7dc-4afe-9ae5-de7a57a1e027"
+    },
+    {
+      "start_time": 1413,
+      "end_time": 1450,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "14ec3152-de37-49d0-8186-d96b2dce1cc0"
+    },
+    {
+      "start_time": 1450,
+      "end_time": 1454,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "1ac49156-7f90-4c25-a8f3-d42a0d33436b"
+    },
+    {
+      "start_time": 1454,
+      "end_time": 1473,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "54fe677e-0ad4-464c-8c54-a17b758149eb"
+    },
+    {
+      "start_time": 1473,
+      "end_time": 1477,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "6199fd57-2af0-4b96-a89a-64d54bb4c945"
+    },
+    {
+      "start_time": 1477,
+      "end_time": 1485,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "c877aeb2-df40-42dd-bdc4-319374d9451b"
+    },
+    {
+      "start_time": 1485,
+      "end_time": 1489,
+      "annotation": [
+        {
+          "text": "Man singing with instruments"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "bd3b57b3-58e2-43fa-a296-c48cdd7b6ea9"
+    },
+    {
+      "start_time": 1489,
+      "end_time": 1509,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "b6b6de99-dd64-4018-95af-7c57eea1b564"
+    },
+    {
+      "start_time": 1520,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "c5dcbc55-f08e-4e73-a829-1234072fbc2f"
+    },
+    {
+      "start_time": 1608,
+      "end_time": 1667,
+      "annotation": [
+        {
+          "text": "Instruments playing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Instruments"
+        }
+      ],
+      "uuid": "0408730a-83e2-4f5c-b80b-761129e5dd16"
+    },
+    {
+      "start_time": 1669,
+      "end_time": 1673,
+      "annotation": [
+        {
+          "text": "2717 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "efa423ec-ea9d-485b-9226-df1a2791dd59"
+    },
+    {
+      "start_time": 1679,
+      "end_time": 1680,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "ffe097fa-aeb8-47ab-9ab3-0f2a8307a716"
+    },
+    {
+      "start_time": 1681,
+      "end_time": 1866,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "333817dc-a2ef-417c-b556-736c84351b6f"
+    },
+    {
+      "start_time": 1872,
+      "end_time": 1970,
+      "annotation": [
+        {
+          "text": "Man singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "55a787ed-0e4f-424b-9eba-01b85b724d9c"
+    },
+    {
+      "start_time": 1973,
+      "end_time": 1977,
+      "annotation": [
+        {
+          "text": "2718 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "90256877-eaa8-47ce-b6df-481e629f0202"
+    },
+    {
+      "start_time": 1980,
+      "end_time": 1980,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4750a6ff-dfe2-4ac6-809b-dde217f6659a"
+    },
+    {
+      "start_time": 1981,
+      "end_time": 2140,
+      "annotation": [
+        {
+          "text": "Woman singing with ukulele"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "09abaa0e-8ecf-4425-abc4-17061567f718"
+    },
+    {
+      "start_time": 2148,
+      "end_time": 2150,
+      "annotation": [
+        {
+          "text": "[inaudible] Now go."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "bec522f0-c8ad-4406-bb44-e1a7b8068955"
+    },
+    {
+      "start_time": 2150,
+      "end_time": 2248,
+      "annotation": [
+        {
+          "text": "Woman singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "3e9095ea-0953-4f1c-b214-e3ba9c493a01"
+    },
+    {
+      "start_time": 2257,
+      "end_time": 2261,
+      "annotation": [
+        {
+          "text": "2718 B1, 2 and 3"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "4f2575a5-f5f0-4c19-ae85-0448aad358d4"
+    },
+    {
+      "start_time": 2263,
+      "end_time": 2274,
+      "annotation": [
+        {
+          "text": "[Inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Inaudible"
+        }
+      ],
+      "uuid": "fc76c5e8-950a-4c62-a76a-a7950f552eb3"
+    },
+    {
+      "start_time": 2274,
+      "end_time": 2433,
+      "annotation": [
+        {
+          "text": "Woman singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "e1e1a3ae-7c00-4390-8cff-c6c923b5d8ed"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "text": "Alright sing!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "0756c393-4fab-4dd6-a12b-5f9a672ea38a"
+    },
+    {
+      "start_time": 2441,
+      "end_time": 2488,
+      "annotation": [
+        {
+          "text": "Children singing and clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "22c02774-823a-42f1-a2ed-830595c7b6d0"
+    },
+    {
+      "start_time": 2491,
+      "end_time": 2493,
+      "annotation": [
+        {
+          "text": "Go ahead. Sing it again."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "aa032df2-d566-4a9c-80b6-fd4914b1e25c"
+    },
+    {
+      "start_time": 2493,
+      "end_time": 2493,
+      "annotation": [
+        {
+          "text": "Children singing and clapping"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "cf5873ff-e527-48cc-838a-35b5335297d5"
+    },
+    {
+      "start_time": 2508,
+      "end_time": 2508,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Distortion"
+        }
+      ],
+      "uuid": "7a7967c8-cbfe-4e1f-af64-da6db23b6b57"
+    },
+    {
+      "start_time": 2542,
+      "end_time": 2544,
+      "annotation": [
+        {
+          "text": "2720 A1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "7ff181ba-8c83-4fb8-bf8a-276eea3a7edd"
+    },
+    {
+      "start_time": 2565,
+      "end_time": 2565,
+      "annotation": [
+        {
+          "text": "Men singing"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Unknown"
+        }
+      ],
+      "uuid": "c8b815ad-7c20-44f7-a21b-352cf7c94f80"
+    },
+    {
+      "start_time": 2673,
+      "end_time": 2673,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Distortion"
+        }
+      ],
+      "uuid": "723f9714-5e24-44e7-b142-8f630adf6f40"
+    },
+    {
+      "start_time": 2720,
+      "end_time": 2720,
+      "annotation": [
+        {
+          "text": "[Distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Distortion"
+        }
+      ],
+      "uuid": "2b2b63f2-08b2-4d41-9d25-effb8d30d9ad"
+    },
+    {
+      "start_time": 2726,
+      "end_time": 2728,
+      "annotation": [
+        {
+          "text": "3135 A"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "cb4b55a2-1cec-4705-af8e-e5e31bc6623e"
+    },
+    {
+      "start_time": 2730,
+      "end_time": 2730,
+      "annotation": [
+        {
+          "text": "My name is Zora Neal Hurston. I was born in Eatonville, FLorida. I'm 35 years old. This song that I'm going to sing is a railroad song that I found on a railroad gang near Miami and was song to me by Max Ford."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "819027ca-5922-4a7c-a167-9030ad666d1c"
+    },
+    {
+      "start_time": 2750,
+      "end_time": 2750,
+      "annotation": [
+        {
+          "text": "How long ago was that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "2228b289-acfd-468c-ae85-1d268616d32f"
+    },
+    {
+      "start_time": 2752,
+      "end_time": 2752,
+      "annotation": [
+        {
+          "text": "That was in 1930."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "f4c0fb1e-8944-40dd-999e-72e14bdac765"
+    },
+    {
+      "start_time": 2756,
+      "end_time": 2756,
+      "annotation": [
+        {
+          "text": "How did you happen to be going around getting songs?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "f4e0a8ce-b898-4741-b426-2a0c0e80ecf0"
+    },
+    {
+      "start_time": 2758,
+      "end_time": 2758,
+      "annotation": [
+        {
+          "text": "I was collecting folk material for Columbia University as part of the Barnard College, Columbia University."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "3f102fcb-d1af-4e72-9412-19cfe7ec9582"
+    },
+    {
+      "start_time": 2766,
+      "end_time": 2766,
+      "annotation": [
+        {
+          "text": "What is the song called?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "ccb0a451-720f-44de-8e22-b3831aa7ce6d"
+    },
+    {
+      "start_time": 2767,
+      "end_time": 2767,
+      "annotation": [
+        {
+          "text": "They call it Gonna see my long-haired babe and it's a railroad spiking song and the rhythm is kept with a spike and a hammer."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "c96edd07-71d2-40d8-afc1-a0d7758466a7"
+    },
+    {
+      "start_time": 2777,
+      "end_time": 2777,
+      "annotation": [
+        {
+          "text": "Will you try to emphasize, give me the approximate rhythm of the hammer with the stick by hitting it against that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "ad8d7a2c-46b5-4a0f-a2af-3bd8d9c61ff2"
+    },
+    {
+      "start_time": 2783,
+      "end_time": 2783,
+      "annotation": [
+        {
+          "text": "Yes, sir."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "619d4887-daef-417a-821c-7ee477c7a7b0"
+    },
+    {
+      "start_time": 2787,
+      "end_time": 2787,
+      "annotation": [
+        {
+          "text": "ZNH sings 'Gonna See My Long-Haired Babe'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a6dc941d-c698-47b3-9c82-fe4d9862a2f3"
+    },
+    {
+      "start_time": 2884,
+      "end_time": 2884,
+      "annotation": [
+        {
+          "text": "Let them hammers ring, boy."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a30e2271-0527-44a9-b0e8-a031e87eb441"
+    },
+    {
+      "start_time": 2888,
+      "end_time": 2888,
+      "annotation": [
+        {
+          "text": "I see you, you seem to be hitting down twice for a hammer. Why is that?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "8d800160-238f-4376-acc2-355686b1c3b8"
+    },
+    {
+      "start_time": 2895,
+      "end_time": 2895,
+      "annotation": [
+        {
+          "text": "Uh, the men face each other with hammers and they call on each other; they're breasted, they stand breast to breast and one comes down and the other one comes down."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "07dcd903-fc80-4b65-925d-5a3252827ca9"
+    },
+    {
+      "start_time": 2903,
+      "end_time": 2903,
+      "annotation": [
+        {
+          "text": "Immediately afterwards?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "c0c78d7d-a197-4d8d-be64-c5e428306615"
+    },
+    {
+      "start_time": 2904,
+      "end_time": 2904,
+      "annotation": [
+        {
+          "text": "Yes, one comes down [strike, strike]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fbfa72d1-9332-4701-ad09-8bcfb57145f5"
+    },
+    {
+      "start_time": 2907,
+      "end_time": 2907,
+      "annotation": [
+        {
+          "text": "I see [strike, strike] and how long is that between the double strikes?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "98b5565a-c6de-4310-ad44-40e4586d06ae"
+    },
+    {
+      "start_time": 2913,
+      "end_time": 2913,
+      "annotation": [
+        {
+          "text": "The minute that one goes down, the other is on the upstroke and comes right down behind it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b1db4918-2994-4554-a64b-cb68e1b3e015"
+    },
+    {
+      "start_time": 2917,
+      "end_time": 2917,
+      "annotation": [
+        {
+          "text": "And who does the singing?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4462ff9c-cccf-484a-9d9d-63e36e78f2b7"
+    },
+    {
+      "start_time": 2918,
+      "end_time": 2918,
+      "annotation": [
+        {
+          "text": "They sing in line. It's a man who doesn't work at all. And he walks up and down and gives the rhythm for the people to work."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "fd541570-bba8-4a30-9eb5-eaf3659de720"
+    },
+    {
+      "start_time": 2926,
+      "end_time": 2926,
+      "annotation": [
+        {
+          "text": "Is this for a whole crew of men?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "502dcf31-4f1c-48a7-9c29-710a6406880d"
+    },
+    {
+      "start_time": 2927,
+      "end_time": 2927,
+      "annotation": [
+        {
+          "text": "A whole crew of men singing this one time and the railroad has to pay the singing liner or else the men won't work."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "cc526df4-2da0-4ae5-899d-decc3c7c993e"
+    },
+    {
+      "start_time": 2935,
+      "end_time": 2935,
+      "annotation": [
+        {
+          "text": "What I'm asking you is if you hear that you only hear the one man singing on a whole section of track."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "fff6c19b-23a6-414f-af08-a3e4bb243e62"
+    },
+    {
+      "start_time": 2941,
+      "end_time": 2941,
+      "annotation": [
+        {
+          "text": "Not all the time, because different ones have verses they want to put in themselves and so they jump in and after they start the song but the singing liner always starts it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "27f47e9c-c314-4032-897e-89c1f07a2f46"
+    },
+    {
+      "start_time": 2949,
+      "end_time": 2949,
+      "annotation": [
+        {
+          "text": "Well now look, uh, the only thing is that you were giving a long piece of singing without the rhythm of the hammer and I want to know approximately how often that comes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4260c139-8328-4a0f-a0f0-04b8e13f2493"
+    },
+    {
+      "start_time": 2959,
+      "end_time": 2959,
+      "annotation": [
+        {
+          "text": "Well, they often do that and then after that they [distortion] get in there but they [distortion]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6232b856-2406-4352-a910-1fe34956a49e"
+    },
+    {
+      "start_time": 2969,
+      "end_time": 2969,
+      "annotation": [
+        {
+          "text": "3135 B1 and 2"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "d791999a-8861-4ee1-b68a-5c60330285bd"
+    },
+    {
+      "start_time": 2974,
+      "end_time": 2974,
+      "annotation": [
+        {
+          "text": "[inaudible]"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "df086937-f0a9-4838-817c-a000cec43edc"
+    },
+    {
+      "start_time": 2978,
+      "end_time": 2978,
+      "annotation": [
+        {
+          "text": "Uh, this song I got in Callahan, Florida, which is a railroad center in the northern part of Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "b52d4a83-a118-4a1c-8a2b-aae15adbc54c"
+    },
+    {
+      "start_time": 2987,
+      "end_time": 2987,
+      "annotation": [
+        {
+          "text": "Inaudible."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "90c2ee0e-f94d-4573-83cc-41769869c86c"
+    },
+    {
+      "start_time": 2989,
+      "end_time": 2989,
+      "annotation": [
+        {
+          "text": "I got this in 1935. I don't remember the man's name who sung it to me but I got it at Callahan. It's a railroad camp."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4c307945-e299-41ed-93f2-59fbd88081c7"
+    },
+    {
+      "start_time": 2997,
+      "end_time": 2997,
+      "annotation": [
+        {
+          "text": "What kind of song is it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "49000f84-7ecc-498a-9e3e-4b442141a578"
+    },
+    {
+      "start_time": 2999,
+      "end_time": 2999,
+      "annotation": [
+        {
+          "text": "This is not exactly a song. It's a chant for the men lining. You know a railroad rail weighs 900 pounds and the men have to take these lining bars and get it in shape to spike it down. And while they're doing that why they have a chant that, uh, and also some songs that they be used to, the rhythm to work it into place and then the boss hollers 'Bring 'em a hammer gang' and they start to spike it down. And this is a chant for lining the rail."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "528eb0ce-dc2d-4f56-8640-446a24195ec2"
+    },
+    {
+      "start_time": 3029,
+      "end_time": 3029,
+      "annotation": [
+        {
+          "text": "ZNH chants 'Let's Shake It'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4a978456-49c4-4153-a9ae-9420e7cad6ab"
+    },
+    {
+      "start_time": 3051,
+      "end_time": 3051,
+      "annotation": [
+        {
+          "text": "I'd like you to do that again. But this time, when they have . . . What do they call the irons they use?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "22eb5911-3792-4f75-a4c7-f011429e8ab9"
+    },
+    {
+      "start_time": 3056,
+      "end_time": 3056,
+      "annotation": [
+        {
+          "text": "They call it a lining bar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "6a54c7a7-63a9-466b-84da-c722e02ff830"
+    },
+    {
+      "start_time": 3057,
+      "end_time": 3057,
+      "annotation": [
+        {
+          "text": "Alright. The lining bar. When they work but don't you hear the clink of it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "559c5ae8-dd53-43f1-bf38-f969ede81201"
+    },
+    {
+      "start_time": 3062,
+      "end_time": 3062,
+      "annotation": [
+        {
+          "text": "It's a 'hah'! Now you don't hear the lining bar because it's under the rail and they shove the rail with it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "63f47359-4133-41c3-b440-7faaad3bcddb"
+    },
+    {
+      "start_time": 3068,
+      "end_time": 3068,
+      "annotation": [
+        {
+          "text": "They hit against it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "b96fbe67-e1e7-413f-8efc-f0faa6c4f403"
+    },
+    {
+      "start_time": 3069,
+      "end_time": 3069,
+      "annotation": [
+        {
+          "text": "No, it's under it. You see, it's just like on this. It's a crow bar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "dbb6d7ff-b090-4807-a786-504bf269a81a"
+    },
+    {
+      "start_time": 3073,
+      "end_time": 3073,
+      "annotation": [
+        {
+          "text": "Because over in Mississippi, they showed me by hitting the thing. They said that the way that they did it was by several men taking a short hit."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4db3b9d4-c75e-46dd-a050-e988049b101b"
+    },
+    {
+      "start_time": 3082,
+      "end_time": 3082,
+      "annotation": [
+        {
+          "text": "Well, I've seen them put it between their legs this way and put it back and they get this, this splange under the rail, and then they 'heh, heh'. You know, like that."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "2b25ecea-f168-45d9-84ec-0b816ac87a42"
+    },
+    {
+      "start_time": 3091,
+      "end_time": 3091,
+      "annotation": [
+        {
+          "text": "Well, now what do they do? Are they pulling it, pulling it --"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "e900e302-0d0b-47f6-984c-0025066aca42"
+    },
+    {
+      "start_time": 3093,
+      "end_time": 3093,
+      "annotation": [
+        {
+          "text": "Pulling it backwards, they're moving it backwards."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "30621bba-1be7-4239-8a10-62e950f8ca8f"
+    },
+    {
+      "start_time": 3094,
+      "end_time": 3094,
+      "annotation": [
+        {
+          "text": "In other words, they have it underneath and they're using the lever to go forward."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "95598d14-baa9-4173-b7e9-bf43b31eaecb"
+    },
+    {
+      "start_time": 3098,
+      "end_time": 3098,
+      "annotation": [
+        {
+          "text": "That's right. Yes."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "bee2be31-82fc-400f-98a9-ceda15dc143e"
+    },
+    {
+      "start_time": 3100,
+      "end_time": 3100,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "3030d3c3-94e7-4df6-96c1-7f89596fd42d"
+    },
+    {
+      "start_time": 3101,
+      "end_time": 3101,
+      "annotation": [
+        {
+          "text": "And all the men, you know because it's always straining and they 'heh'."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "4abad9b2-71d5-4541-b4b5-6c49edba046f"
+    },
+    {
+      "start_time": 3103,
+      "end_time": 3103,
+      "annotation": [
+        {
+          "text": "About how many are there on a bar?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "76635ab1-0d2b-4938-9ec7-5d60d5a52a50"
+    },
+    {
+      "start_time": 3104,
+      "end_time": 3104,
+      "annotation": [
+        {
+          "text": "Oh, some time it's about 7 or 8 on at one time."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "f6c52145-3a16-4b84-b653-dc0426971b52"
+    },
+    {
+      "start_time": 3109,
+      "end_time": 3109,
+      "annotation": [
+        {
+          "text": "Hmhm. Well, I suppose you try it and you sing it over again."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "ed08b024-e64e-41c9-a8bd-5484b91ab5f0"
+    },
+    {
+      "start_time": 3112,
+      "end_time": 3112,
+      "annotation": [
+        {
+          "text": "Alright"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "c1fc6b0f-e6a6-4b91-ab2d-66c62754201e"
+    },
+    {
+      "start_time": 3113,
+      "end_time": 3113,
+      "annotation": [
+        {
+          "text": "Or chant it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4edeafac-0be7-4a76-9662-3aeb1ef9abbf"
+    },
+    {
+      "start_time": 3117,
+      "end_time": 3117,
+      "annotation": [
+        {
+          "text": "ZNH chants 'Let's Shake It'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8c8b78c5-aca7-4c76-a723-a95bc79e4349"
+    },
+    {
+      "start_time": 3143,
+      "end_time": 3143,
+      "annotation": [
+        {
+          "text": "I got 'That Old Black Gal' is a spiking song that I got down there in Miami and was song by Max Ford the singing liner on this construction crew."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "86b90631-00ca-4ea1-bf1b-0b8b7a96fc05"
+    },
+    {
+      "start_time": 3154,
+      "end_time": 3154,
+      "annotation": [
+        {
+          "text": "What's it used for?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "e27a2417-3105-442b-8949-7b7ba2ff0c73"
+    },
+    {
+      "start_time": 3155,
+      "end_time": 3155,
+      "annotation": [
+        {
+          "text": "Used for spiking down the rails."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "01560ccf-63d0-4dc7-ba7f-461a98dc7294"
+    },
+    {
+      "start_time": 3158,
+      "end_time": 3158,
+      "annotation": [
+        {
+          "text": "ZNH chants 'That Old Black Gal'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e51ccb0a-e74a-4964-886a-2782200ba3b5"
+    },
+    {
+      "start_time": 3228,
+      "end_time": 3228,
+      "annotation": [
+        {
+          "text": "3136 A"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "2f841cf2-b78d-4dc0-9310-e46715441257"
+    },
+    {
+      "start_time": 3231,
+      "end_time": 3231,
+      "annotation": [
+        {
+          "text": "This song they called 'Shove it Over' and it's the lining rhythm pretty generally distributed all over Florida. It was sung to me by Charlie Jones on a railroad construction camp in Lakeland, Florida."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "51cebdd2-759f-40c9-bfb3-653b78f80529"
+    },
+    {
+      "start_time": 3244,
+      "end_time": 3244,
+      "annotation": [
+        {
+          "text": "About how long ago?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "16fe3322-7012-4b75-a643-8309051cbf7a"
+    },
+    {
+      "start_time": 3246,
+      "end_time": 3246,
+      "annotation": [
+        {
+          "text": "Uh, I gathered that in '33, 1933."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8ab44538-b2b7-4d6f-9ebb-db79cb4769e8"
+    },
+    {
+      "start_time": 3252,
+      "end_time": 3252,
+      "annotation": [
+        {
+          "text": "ZNH sings 'Shove it over'"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "3a77291c-a601-4e0f-ae2e-179784348868"
+    },
+    {
+      "start_time": 3361,
+      "end_time": 3361,
+      "annotation": [
+        {
+          "text": "This is again for lining?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4feb2d5a-ac3b-4176-9466-ddf513afa0cb"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3363,
+      "annotation": [
+        {
+          "text": "This is a lining rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "e4c4cd3e-bb39-4c58-9537-a03079604f16"
+    },
+    {
+      "start_time": 3363,
+      "end_time": 3366,
+      "annotation": [
+        {
+          "text": "Now where is the movement?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "4c0238e0-8167-40ef-9e3d-f9bc74aec3c5"
+    },
+    {
+      "start_time": 3366,
+      "end_time": 3372,
+      "annotation": [
+        {
+          "text": "When they say Shacka-lacka-lacka like they are getting ready to pull back and when they say 'heh' they shove the rail over."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "54f3ceca-60a6-4448-b7bb-affabecd1ebb"
+    },
+    {
+      "start_time": 3372,
+      "end_time": 3376,
+      "annotation": [
+        {
+          "text": "In other words, this song gives them quite a lot of rest in between."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "19a61a24-92de-4817-b368-8d332b53c303"
+    },
+    {
+      "start_time": 3376,
+      "end_time": 3377,
+      "annotation": [
+        {
+          "text": "Right a lot of rest in between."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "ce18f884-8f66-488b-8f54-5e385202a2ca"
+    },
+    {
+      "start_time": 3377,
+      "end_time": 3378,
+      "annotation": [
+        {
+          "text": "And a harder shove?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "8f38c8f2-aa96-489b-b227-59c0235d21d3"
+    },
+    {
+      "start_time": 3378,
+      "end_time": 3381,
+      "annotation": [
+        {
+          "text": "And a harder shove at the end. And they say 'heh', they all go."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "8734165b-c05b-47d5-807d-ef70d4aedc72"
+    },
+    {
+      "start_time": 3381,
+      "end_time": 3386,
+      "annotation": [
+        {
+          "text": "It seems to have had a different effect from the other lining one you gave, I mean that one about Mobile."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "29a6c915-76b1-4908-adce-c50c148deba0"
+    },
+    {
+      "start_time": 3386,
+      "end_time": 3396,
+      "annotation": [
+        {
+          "text": "Yes, but someone was short and someone only just come to the mood of the liner. And the men work whatever song he sung, they work that rhythm."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a22a0e82-380b-4406-a455-dba5605fdc85"
+    },
+    {
+      "start_time": 3396,
+      "end_time": 3439,
+      "annotation": [
+        {
+          "text": "Uh, now when the men are lining, they put the rail down, and then of course the captain, he's crouched straddle of it and uh, looks down it so he can tell when it's lined up in exact line with the others. And if they carry it, well he'll say shove it over and if they carry it too far, he'll say send it back and when they get it exactly in line, he'll tell em 'join it ahead' but then they corrupted that to 'join ahead' and all of them say 'join ahead' for 'join it ahead'. And, uh, so, uh, this song is about a lining and the rhythm goes with, they put this lining bar, this long steel bar, crow bar, between their legs so they have greater purchase and pull back on it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "a8e9fc2d-54a4-4c4d-af24-b95b3586e2b9"
+    },
+    {
+      "start_time": 3439,
+      "end_time": 3442,
+      "annotation": [
+        {
+          "text": "Well, wait a minute. They pull back . . . and how are they facing in relation to the rail."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "bb6f6ab1-dff1-4438-9e33-7e6632cf7bd2"
+    },
+    {
+      "start_time": 3442,
+      "end_time": 3445,
+      "annotation": [
+        {
+          "text": "Their back is to the rail."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7b51cd1e-c914-40f4-90ac-69f28ef9fbdc"
+    },
+    {
+      "start_time": 3445,
+      "end_time": 3448,
+      "annotation": [
+        {
+          "text": "In other words, they're pulling up on the bar."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "783a22f5-f097-449d-bbff-2a04147cdf72"
+    },
+    {
+      "start_time": 3448,
+      "end_time": 3453,
+      "annotation": [
+        {
+          "text": "They're pulling up on the bar. They don't have to look at the rail because that's the captain's job to see when it's right."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "82c9d725-383f-4952-8591-f1bd6866c735"
+    },
+    {
+      "start_time": 3453,
+      "end_time": 3456,
+      "annotation": [
+        {
+          "text": "Well, what do they do? Do they, how do they get it under the bar, the rail?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "ea16cea3-282e-4e32-851c-7eb3f298d9b3"
+    },
+    {
+      "start_time": 3456,
+      "end_time": 3461,
+      "annotation": [
+        {
+          "text": "They just push the flange of this lining bar under the rail and then pull back on it."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "5da7e160-11ab-4ebb-846d-bd709fd20558"
+    },
+    {
+      "start_time": 3461,
+      "end_time": 3463,
+      "annotation": [
+        {
+          "text": "Do they have to look back at it or do they just feel it?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "fa225ec3-d508-4428-b039-3fd3bafd1d0f"
+    },
+    {
+      "start_time": 3463,
+      "end_time": 3470,
+      "annotation": [
+        {
+          "text": "Oh, they can just feel it. Sometimes they look back, you know, but most of them, they just can feel it and they send it back on there."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "d39637df-0b10-4df9-92d9-a4170a445498"
+    },
+    {
+      "start_time": 3470,
+      "end_time": 3480,
+      "annotation": [
+        {
+          "text": "Well, uh, you were saying, you were explaining that there's different rhythms that they have. Are there any particular times when a faster on or a slower one would be used?"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "322106de-83d8-4b4a-821e-8130bf0dc6b8"
+    },
+    {
+      "start_time": 3480,
+      "end_time": 3508,
+      "annotation": [
+        {
+          "text": "Well, it's different; it's not any particular time except just the feeling of the singing liner. Whatever song he starts. If it's a fast rhythm they work fast; if its's a slow one, well they work, you know, a little slower but they get just as much work done, it seems, somehow or another."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "20b7d9ac-f61b-4dac-a8fe-bfc1dfbaa9da"
+    },
+    {
+      "start_time": 3498,
+      "end_time": 3503,
+      "annotation": [
+        {
+          "text": "3136 B"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Library of Congress"
+        }
+      ],
+      "uuid": "3a6e1979-ca4f-421e-b08a-955409896f9f"
+    },
+    {
+      "start_time": 3508,
+      "end_time": 3511,
+      "annotation": [
+        {
+          "text": "ZNH singing low."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "7e739319-36d9-442a-98f1-c5227654ca61"
+    },
+    {
+      "start_time": 3511,
+      "end_time": 3512,
+      "annotation": [
+        {
+          "text": "Alright."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Herbert Halpert"
+        }
+      ],
+      "uuid": "2ad109a8-5757-4f2a-9148-0bd5045b1615"
+    },
+    {
+      "start_time": 3512,
+      "end_time": 3531,
+      "annotation": [
+        {
+          "text": "Alright, this song I'm going to sing is a lining rhythm and I'm going to call it Mule on the Mount though you can start with any verse you want and give it a name and it's the most widely distributed work song in the United States and it has innumerable verses and whatnot about everything under the sun and it's a lining rhythm though they sometimes sing it just [cut off]."
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "speaker:Zora Neale Hurston"
+        }
+      ],
+      "uuid": "9378cdbf-d1be-4b4e-a6b1-272d78378eaf"
+    }
+  ]
+}

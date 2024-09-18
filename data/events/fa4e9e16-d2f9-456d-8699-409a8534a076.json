@@ -1,0 +1,26 @@
+{
+  "audiovisual_files": {
+    "59585413-c971-4cb5-9318-7ec217a895e9": {
+      "label": "",
+      "file_url": "https://ia601304.us.archive.org/11/items/WPA_1939_Jacksonville_Halpert/T86-245.mp3",
+      "duration": 0
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": " yu,f."
+        }
+      ]
+    }
+  ],
+  "created_at": "2024-09-18T17:44:54.961Z",
+  "created_by": "SteveMarvin",
+  "item_type": "Audio",
+  "label": "Imported Event 1",
+  "updated_at": "2024-09-18T17:44:54.962Z",
+  "updated_by": "SteveMarvin"
+}

@@ -1,0 +1,70 @@
+{
+  "event_id": "918d8875-bc89-4428-8f26-4e21ed18bb37",
+  "source_id": "3f150387-a8e7-49a0-a386-886884274ddf",
+  "set": "Annotations",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "i'm a test annotation!"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Alabama Singleton"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Evelyn Werner"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Carita Doggett Corse"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Rolla Southworth"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:H. W. Stuckey"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker:Irene Jackson"
+        }
+      ],
+      "uuid": "e2f79c89-d341-4200-ae34-dda0db8ac1b2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "hello"
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "uncategorized:Alabama Singleton"
+        }
+      ],
+      "uuid": "39ecd51e-8143-4041-8698-1a8cf52a4796"
+    },
+    {
+      "start_time": 23,
+      "end_time": 23,
+      "annotation": [
+        {
+          "text": "test annotation for the middle of the video"
+        }
+      ],
+      "tags": [],
+      "uuid": "312cebc7-5a79-4417-8be9-84da4da6a6b6"
+    }
+  ]
+}
