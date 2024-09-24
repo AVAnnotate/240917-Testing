@@ -1,14 +1,1 @@
-{
-  "content": [],
-  "created_at": "2024-09-18T17:43:17.839Z",
-  "created_by": "SteveMarvin",
-  "title": "Field Recordings T86-245",
-  "updated_at": "2024-09-18T17:43:17.839Z",
-  "updated_by": "SteveMarvin",
-  "parent": "41dab133-8a53-4e6f-b18d-aba5d54cc541",
-  "autogenerate": {
-    "enabled": true,
-    "type": "event",
-    "type_id": "a2e44cf9-d092-4604-a0be-09ebd1a4d17e"
-  }
-}
+{"content":[],"created_at":"2024-09-18T17:43:17.839Z","created_by":"SteveMarvin","title":"Field Recordings T86-245","updated_at":"2024-09-18T17:43:17.839Z","updated_by":"SteveMarvin","parent":"41dab133-8a53-4e6f-b18d-aba5d54cc541","autogenerate":{"enabled":true,"type":"event","type_id":"a2e44cf9-d092-4604-a0be-09ebd1a4d17e"}}
